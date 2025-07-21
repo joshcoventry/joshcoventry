@@ -10,7 +10,7 @@ I help companies...
 📉 Reduce infrastructure running costs  
 ☁️ Migrate away from legacy tech  
 🚀 Innovate and experiment using software  
-⏱️ Increase cycle time & embrace effective delivery practices. 
+⏱️ Increase cycle time & embrace effective delivery practices.  
 🔐 Build secure, scalable & resilient software  
 
 I specialise in managing high-availability production systems, overseeing full-stack teams of 20+ engineers, and driving best practices in hiring, onboarding and modern software development.
