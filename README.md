@@ -4,14 +4,14 @@ I'm a software engineering manager with a 15 year track record of leading teams 
 
 I help companies...
 
-📈 Scale software engineering expertise
-🤝 Build healthy software engineering communities 
-💡 Increase ROI from software development
-📉 Reduce infrastructure running costs
-☁️ Migrate away from legacy tech
-🚀 Innovate and experiment using software
-⏱️ Increase cycle time & embrace effective delivery practices
-🔐 Build secure, scalable & resilient software
+📈 Scale software engineering expertise  
+🤝 Build healthy software engineering communities  
+💡 Increase ROI from software development  
+📉 Reduce infrastructure running costs  
+☁️ Migrate away from legacy tech  
+🚀 Innovate and experiment using software  
+⏱️ Increase cycle time & embrace effective delivery practices. 
+🔐 Build secure, scalable & resilient software  
 
 I specialise in managing high-availability production systems, overseeing full-stack teams of 20+ engineers, and driving best practices in hiring, onboarding and modern software development.
 
