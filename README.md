@@ -1,6 +1,6 @@
 ## Hi, I'm Josh 👋
 
-I'm a software engineering manager with a 15 year track record of leading teams that build and maintain platforms powering some of the world’s highest-traffic websites.
+I'm a software engineering manager based in Sydney, Australia with a 15 year track record of leading teams that build and maintain platforms powering some of the world’s highest-traffic websites.
 
 I help companies...
 
